@@ -1,7 +1,8 @@
-<div align="center">
+<div>
   <a href="https://github.com/joaoVitorLeal">
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joaoVitorLeal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    &nbsp;&nbsp;
     <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joaoVitorLeal&layout=compact&langs_count=6&theme=tokyonight"/>
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=joaoVitorLeal&theme=tokyonight"/>
   </a>
 </div>
 
